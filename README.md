@@ -1,1 +1,1 @@
-# Dynamic RTS in Game Development
+# Dynamic RTS in Game Development Using Efficient Pathfinding and Collision Avoidance
