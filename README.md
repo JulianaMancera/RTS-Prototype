@@ -1,1 +1,1 @@
-# RTS-Prototype
+# Dynamic RTS in Game Development
